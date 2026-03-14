@@ -1,0 +1,101 @@
+.body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:0;
+}
+
+.menu{
+    width:100%;
+    background:#282b30;
+    text-align:center;
+}
+
+.menu td{
+    padding:15px;
+}
+
+.menu a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.menu td:hover{
+    background:#393e45;
+    cursor:pointer;
+}
+
+.menu td:active{
+    background:#7289da;
+}
+
+.charmander{
+    background:#fe9441;
+    width:100%;
+    height:auto;
+    padding:40px;
+}
+
+.squirtle{
+    background:#93c8d0;
+    width:100%;
+    height:auto;
+    padding:40px;
+}
+
+.bulbasaur{
+    background:#83ba36;
+    width:100%;
+    height:auto;
+    padding:40px;
+}
+
+.content{
+    width:100%;
+}
+
+img{
+    width:500px;
+    height:500px;
+}
+
+button{
+    width:250px;
+    height:50px;
+    border-radius:100px;
+    border:1px solid black;
+    font-weight:bold;
+    background:#282b30;
+    color:white;
+}
+
+button:hover{
+    background:white;
+    color:black;
+}
+
+.fire{
+    background:#f24405;
+}
+
+.water{
+    background:#2389da;
+}
+
+.grass{
+    background:#107800;
+}
+
+.poison{
+    background:#7b63ad;
+}
+
+.status{
+    margin-top:15px;
+    font-family:cursive;
+}
+
+.footer{
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+}
